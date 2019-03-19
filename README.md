@@ -8,3 +8,4 @@ If you have any suggestions, please create a pull request!
 
 * [Create an asynchronous loop/callback](examples/async-loop-callback.pony)
 * [Use recursion in a lambda](examples/lambda-recursion.pony)
+* [Use partial application in a lambda](examples/lambda-partial-application.pony)
